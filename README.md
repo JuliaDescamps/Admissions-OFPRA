@@ -6,7 +6,8 @@ L'Office Français de Protection des Réfugiés et Apatrides (OFPRA) est un éta
 
 "Les mineurs (...) déposent désormais une demande d'asile en leur nom propre, via leurs représentants légaux" (voir le fichier pdf "documentation-ofpra-décisions" sur data.gouv). Le champ concerne donc les majeur-es et les mineur-es. 
 
-Attention, les décisions statuées une année donnée ne correspondent pas forcément aux demandes déposées la même année, mais peuvent porter sur des demandes déposées lors des années antérieures - ce qui est le cas lorsque les démarches administratives sont longues. De plus, les pays pour lesquels les demandes concernaient moins de 5 personnes ne sont pas représentés.
+Attention, les données utilisées concernent l’activité de l’OFPRA. Comme précisé sur data.gouv : les demandes de protection internationale qui y sont comptabilisées "ne correspondent pas au nombre total de demandes d’asile publié par le service statistique de la direction générale étrangers en France du ministère de l’Intérieur, qui inclut notamment les demandeurs d’asile sous procédure Dublin".
+De plus, les décisions statuées une année donnée ne correspondent pas forcément aux demandes déposées la même année, mais peuvent porter sur des demandes déposées lors des années antérieures - ce qui est le cas lorsque les démarches administratives sont longues. Enfin, les pays pour lesquels les demandes concernaient moins de 5 personnes ne sont pas représentés.
 
 Le taux d'admission à la protection internationale est défini comme rapport entre le nombre de décisions positives (pour l'obtention du statut de réfugié-e ou de la protection subsidiaire) et le nombre total de demandes statuées sur une année donnée.
 
