@@ -1,5 +1,7 @@
 # Admissions-OFPRA
-Ce code permet une représentation cartographique des admissions par l'OFPRA à la protection internationale (taux d'admission annuel  et nombre annuel de demandes statuées), exportée dans une application Rshiny et visible sur https://juliadescamps.shinyapps.io/admissions-ofpra/ 
+Ce code permet une représentation cartographique des admissions par l'OFPRA à la protection internationale (taux d'admission annuel  et nombre annuel de demandes statuées).
+
+[Visualisation complète dans l'application shiny](https://juliadescamps.shinyapps.io/admissions-ofpra/)
 
 ## Contexte
 L'Office Français de Protection des Réfugiés et Apatrides (OFPRA) est un établissement public administratif qui statue sur les demandes de protection internationale qui lui sont soumises.
